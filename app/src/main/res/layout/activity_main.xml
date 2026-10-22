@@ -12,13 +12,15 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:text="Button One"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        android:backgroundTint="#F44336" />
 
     <Button
         android:id="@+id/buttonTwo"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="Button Two"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        android:backgroundTint="#F44336" />
 
 </LinearLayout>
